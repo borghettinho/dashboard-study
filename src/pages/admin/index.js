@@ -5,7 +5,7 @@ import Main from "../../components/main";
 const Admin = () => {
   return (
     <Main>
-      <h2>Admin</h2>
+      <code style={{ border: "1px solid #272727" }}>admin page</code>
     </Main>
   );
 };

@@ -9,6 +9,10 @@ const SideNav = styled.aside`
   flex-direction: column;
 `;
 
+const Logo = styled.figure`
+  margin: 0;
+`;
+
 const MainNav = styled.nav`
   ul {
     display: flex;

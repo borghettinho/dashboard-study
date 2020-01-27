@@ -19,6 +19,8 @@ const Nav = styled.nav`
     margin: 0;
 
     li:first-child {
+      display: flex;
+      align-items: center;
       margin-right: ${({ theme }) => theme.layout.small_gutter};
     }
 
